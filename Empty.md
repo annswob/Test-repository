@@ -9,6 +9,7 @@ I have no idea what I'm doing here.
 But I like it.  
 It's fun!  
 It's working!  
+*Making changes now.*
 
 Markdown testing
 ================
