@@ -50,9 +50,7 @@ console.log("look ma`, no spaces");
 ```
 ```printf ("Ain't it boring?);```
 <!-- Example for Quote -->
-| Funny dogs | Cute dogs | Scary dogs |
-| ---------- | --------- | ---------- |
-| Silesian   | Big nose  | N/A        |
+
 
 
 > quote  
@@ -63,6 +61,9 @@ console.log("look ma`, no spaces");
 <!-- Example for Numbered List -->
 
 <!-- Example for Tables -->
+| Funny dogs | Cute dogs | Scary dogs |
+| ---------- | --------- | ---------- |
+| Silesian   | Big nose  | N/A        |
 
 <!-- Paragraph after table -->
 
