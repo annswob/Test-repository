@@ -61,6 +61,7 @@ console.log("look ma`, no spaces");
 <!-- Example for Numbered List -->
 
 <!-- Example for Tables -->
+
 | Funny dogs | Cute dogs | Scary dogs |
 | ---------- | --------- | ---------- |
 | Silesian   | Big nose  | N/A        |
