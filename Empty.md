@@ -43,7 +43,12 @@ This is *italic* text
 <!-- Example for inline code -->
 
 <!-- A block of code -->
-
+```javascript
+function test() {
+console.log("look ma`, no spaces");
+}
+```
+```printf ("Ain't it boring?);```
 <!-- Example for Quote -->
 
 <!-- Example for Bullet List -->
