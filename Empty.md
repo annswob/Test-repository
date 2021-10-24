@@ -50,9 +50,9 @@ console.log("look ma`, no spaces");
 ```
 ```printf ("Ain't it boring?);```
 <!-- Example for Quote -->
-Funny dogs | Cute dogs | Scary dogs
------------|-----------|-----------
-Silesian   | Big nose  | N/A
+| Funny dogs | Cute dogs | Scary dogs |
+| ---------- | --------- | ---------- |
+| Silesian   | Big nose  | N/A        |
 
 
 > quote  
@@ -65,3 +65,17 @@ Silesian   | Big nose  | N/A
 <!-- Example for Tables -->
 
 <!-- Paragraph after table -->
+
+<!-- Here comes the TOC -->
+- [So this is how it begins](#so-this-is-how-it-begins)  
+  - [Introductory paragraph](#introductory-paragraph)
+
+
+
+- [**So this is how it begins**](#so-this-is-how-it-begins)
+  - [Introductory paragraph](#introductory-paragraph)
+- [Markdown testing](#markdown-testing)
+  - [Let's check the weather](#lets-check-the-weather)
+  - [And now let's see some funny dogs](#and-now-lets-see-some-funny-dogs)
+- [Doggieees](#doggieees)
+  - [Subdoggies](#subdoggies)
