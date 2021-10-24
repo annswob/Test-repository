@@ -62,9 +62,9 @@ console.log("look ma`, no spaces");
 
 <!-- Example for Tables -->
 
-| Funny dogs | Cute dogs | Scary dogs |
-| ---------- | --------- | ---------- |
-| Silesian   | Big nose  | N/A        |
+Funny dogs | Cute dogs | Scary dogs  
+---------- | --------- | ----------
+Silesian   | Big nose  | N/A       
 
 <!-- Paragraph after table -->
 
