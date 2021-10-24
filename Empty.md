@@ -50,6 +50,10 @@ console.log("look ma`, no spaces");
 ```
 ```printf ("Ain't it boring?);```
 <!-- Example for Quote -->
+Funny dogs | Cute dogs | Scary dogs
+-----------|-----------|-----------
+Silesian   | Big nose  | N/A
+
 
 > quote  
 > quote  
