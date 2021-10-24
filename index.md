@@ -74,10 +74,11 @@ Silesian   | Big nose  | N/A
 
 
 
-- [**So this is how it begins**](#so-this-is-how-it-begins)
-  - [Introductory paragraph](#introductory-paragraph)
-- [Markdown testing](#markdown-testing)
-  - [Let's check the weather](#lets-check-the-weather)
-  - [And now let's see some funny dogs](#and-now-lets-see-some-funny-dogs)
-- [Doggieees](#doggieees)
-  - [Subdoggies](#subdoggies)
+1. [**So this is how it begins**](#so-this-is-how-it-begins)
+   1. [Introductory paragraph](#introductory-paragraph)
+2. [Markdown testing](#markdown-testing)
+   1. [Let's check the weather](#lets-check-the-weather)
+   2. [And now let's see some funny dogs](#and-now-lets-see-some-funny-dogs)
+3. [Doggieees](#doggieees)
+   1. [Subdoggies](#subdoggies)
+
